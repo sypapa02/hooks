@@ -1,0 +1,58 @@
+export const films =[
+    {
+        id:1,
+        title: 'La Ligne verte',
+        description: 'Paul Edgecomb, Gardien-chef du pénitencier de Cold Mountain en 1935, était chargé de veiller au bon déroulement des exécutions capitales. Parmi les prisonniers se trouvait un colosse du nom de John Coffey...',
+        posterURL: 'https://fr.web.img2.acsta.net/c_310_420/medias/nmedia/18/66/15/78/19254683.jpg',
+        rating: 9,
+    },
+    {
+        id:2,
+        title: 'The Shawshank Redemption',
+        description: 'Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts.',
+        posterURL: 'https://m.media-amazon.com/images/I/61qpfF-hlaL._AC_UF894,1000_QL80_.jpg',
+        rating: 8,
+    },
+    {
+        id:3,
+        title: 'The Accountant',
+        description: 'As a math savant uncooks the books for a new client, the Treasury Department closes in on his activities.',
+        posterURL: 'https://images.kinorium.com/movie/poster/620676/w1500_44838567.jpg',
+        rating: 10,
+    },
+    {
+        id:4,
+        title: 'Ant-Man: Quantumania ',
+        description: 'Super-Hero partners Scott Lang and Hope van Dyne, along with with Hopes parents Janet van Dyne.',
+        posterURL: 'https://i0.wp.com/www.murphysmultiverse.com/wp-content/uploads/2023/02/AMTW_Q_review.jpg?fit=1024%2C576&ssl=1',
+        rating: 5,
+    },
+    {
+        id:5,
+        title: 'Top Gun: Maverick',
+        description: 'After more than thirty years of service as one of the Navy’s top aviators, and dodging the advancement in rank that would ground him..',
+        posterURL: 'https://blacknerdproblems.com/wp-content/uploads/2022/08/top-gun.jpg',
+        rating: 10,
+    },
+    {
+        id:6,
+        title: 'The Mandalorian',
+        description: 'After the fall of the Galactic Empire, lawlessness has spread throughout the galaxy. A lone gunfighter makes his way through the outer reaches.',
+        posterURL: 'https://images.thedirect.com/media/article_full/the-mandalorian-season-3-posters-star-wars.jpg',
+        rating: 10,
+    },
+    {
+        id:7,
+        title: 'Peaky Blinders',
+        description: 'A gangster family epic set in 1919 Birmingham, England and centered on a gang who sew razor blades in the peaks of their caps, and their fierce boss Tommy Shelby, who means to move up in the world.',
+        posterURL: 'https://wallpapercave.com/wp/wp5566069.jpg',
+        rating: 8,
+    },
+    {
+        id:8,
+        title: 'Money Back Guarantee',
+        description: 'Money Back Guarantee is the most awaited multi-starrer Pakistani film directed by Faisal Qureshi.',
+        posterURL: 'https://i.ytimg.com/vi/bieF9dVp4VI/maxresdefault.jpg',
+        rating: 2,
+    },
+]
